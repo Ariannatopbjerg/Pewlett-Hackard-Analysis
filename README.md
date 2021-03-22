@@ -31,4 +31,21 @@ Table: [Retiring Titles]( https://github.com/Ariannatopbjerg/Pewlett-Hackard-Ana
 
 ***Identifying employees who are eligible to participate in a mentorship program:***
 
+*Retrieve current employees who were born between January 1, 1965 and December 31, 1965.*
 Table: [Mentorship Eligibility]( https://github.com/Ariannatopbjerg/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibility.csv)
+
+## Summary of Analysis
+
+**Employees Eligible for Retirement**
+(insert retiring table)
+According to the table above, out of the 300,024 employees within the compnay, 90,398 (30.13%) are eligible for retirement. The majority of retirees have positions as Senior Engineer, Senior Staff, and Engineer. I recommend the company to start looking for people to fill these positions now due to the amount of eligible retirees. 
+
+**Qualified Mentors**
+(insert table)
+There are 1549 employees who are eligible for the mentorship role.
+
+
+
+
+
+
