@@ -47,7 +47,7 @@ According to the table above, out of the 300,024 employees within the compnay, 9
 
 ![](https://github.com/Ariannatopbjerg/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_title_count.PNG)
 
-There are 1549 employees who are eligible for the mentorship role.
+There are 1549 employees who are eligible for the mentorship role. This is a low amount of mentors considering the amount of eligible retirees. Unfortunatley, the company will face a great deficit once employees start to retire. I recommend the company start planning now who will be mentors for the next generation of employees, as well as start a hiring process. 
 
 
 
