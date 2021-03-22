@@ -46,3 +46,10 @@ left join titles as ti
 	on em.emp_no = ti.emp_no
 where (em.birth_date between '1965-01-01' and '1965-12-31') and (de.to_date = '9999-01-01')
 order by em.emp_no;
+
+-- Retrieve the number of eligible mentors by title
+select count(title), title
+into mentorship_title_count
+from mentorship_eligibility
+group by title
+order by count(title) desc;
